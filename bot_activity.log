@@ -1,0 +1,13 @@
+2025-12-20 16:53:08,714 - INFO - 🚀 Starting Flask API Server...
+2025-12-20 16:53:08,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.10.126:5001
+2025-12-20 16:53:08,857 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 16:53:11,717 - INFO - 🚀 Main execution block started.
+2025-12-20 16:53:11,718 - INFO - 🎮 Starting TCP client for ID: 4128631399
+2025-12-20 16:53:14,114 - INFO - Token decoded and processed. Account ID: 13099974979
+2025-12-20 16:53:14,116 - INFO - Final token constructed successfully.
+2025-12-20 16:53:14,259 - INFO - ✅ TCP Bot is online and waiting for commands...
+2025-12-20 16:53:14,260 - INFO - 📋 Checking command queue every 2 seconds...
+2025-12-20 16:53:14,322 - INFO - ✅ Connected to port 39699 Host 202.81.106.143
